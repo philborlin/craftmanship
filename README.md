@@ -20,6 +20,9 @@ provide unity of instruction in some of the exercises.
    sbt compile
 ```
 
+Feel free to customize this project ahead of the meeting (such as adding libraries, adding compiler plugins, switching to a Build.scala, etc)
+just make sure you run sbt compile so all of your dependencies are local on your machine.
+
 This will prepare you for the meeting.
 
 The meeting will have a short presentation (15 mins) which will go over a quick introduction to software craftmanship. I'll introduce you
@@ -29,3 +32,5 @@ all coding.
 We will go over three programming katas for 20 minutes a piece. This will be you and your pair coding. Throughout the katas you will
 have an opportunity to pair three different people and pairing always seems to teach you something you didn't know. After that we'll
 run a randori and get a chance to work in a group atmosphere.
+
+After the meeting I will post the slides to this repository.
